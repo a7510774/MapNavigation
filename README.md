@@ -17,3 +17,5 @@
 3. 一句话调用
 
 	![](3.png)
+	
+![](http://code4app.qiniudn.com/photo/56c6d3e0b5ad2e8d468b4a8d_1.gif)
